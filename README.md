@@ -3,7 +3,7 @@
 Example data and R code for tidal interpolation, developed as part of the manuscript Basso E, Ruiz J, Bedriñana-Romano L, Valenzuela J, Navedo JG (in review) Spatial networks reveal a highly centralized functional connectivity in non-breeding areas for a long-distance migratory shorebird. Landsc. Ecol.
 
 <p align="center">
-  <img src="Fig.S3.png" width="400">
+  <img src="Fig.S3.png" width="500">
 </p>
 
 ## Repository structure
