@@ -178,7 +178,7 @@ axis(1, at = output$Datetime[t_val], labels = data$Time)
 #. Add formula annotation on top-left corner with lowercase delta 
 formula_text <- expression(delta == frac(c, 2) * '[' * 1 - cos(180 * frac(b, a)) * ']')
 text(x = min(output$Datetime + 3600), y = max(output$Diff_tide -0.2, na.rm=TRUE), 
-     labels = formula_text, pos = 4, cex = 0.8, col = 'black')
+     labels = formula_text, pos = 4, cex = 0.8, col = '#000000')
 
 # ---  Example: Using one month of tide data ---
 #. NOTE: This function is designed to interpolate tide data by month
